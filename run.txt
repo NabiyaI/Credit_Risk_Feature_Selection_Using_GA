@@ -1,0 +1,3 @@
+Run in terminal: cd "C:\Users\shaha\Documents\0. Files For Uni\SEM 6\EC Project"; & ".\.venv\Scripts\Activate.ps1"; python .\ga_svm_feature_selection.py
+
+Run in streamlit: cd "C:\Users\shaha\Documents\0. Files For Uni\SEM 6\EC Project"; & "..venv\Scripts\Activate.ps1"; python -m streamlit run

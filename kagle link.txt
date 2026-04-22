@@ -1,0 +1,2 @@
+https://www.kaggle.com/datasets/uciml/german-credit?resource=download
+https://www.kaggle.com/datasets/programmer3/credit-risk-dataset
